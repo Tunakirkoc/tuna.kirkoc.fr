@@ -11,7 +11,7 @@ $texte = $_POST['texte'];
 // Create new webhook in your Discord channel settings and copy&paste URL
 //=======================================================================================================
 
-$webhookurl = "https://discord.com/api/webhooks/949415760592269372/bWtluq3E2iHDZq-L82fOnfairLMeyx6SiTa71vBbme8uco-PxJuuOBVU1OyI7KFu-j-S";
+$webhookurl = "";
 
 //=======================================================================================================
 // Compose message. You can use Markdown
